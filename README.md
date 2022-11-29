@@ -1,4 +1,4 @@
-# daily_reminder
+﻿# daily_reminder
 给女朋友做的微信天气推送
 
 教程链接
@@ -28,9 +28,6 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 {{birthday1.DATA}} 
 {{birthday2.DATA}}
-
-距Mx考研还有{{Mx_day.DATA}}
-距Kdz考研还有{{Kdz_day.DATA}}
 
 
 {{note_en.DATA}} 
