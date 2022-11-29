@@ -6,7 +6,7 @@
 "user": ["oUrKK5h_5BGl290yPGFliDxftq_U", "oUrKK5sfllsSaVoX-GXfHFdw4OM0"],
  
 
-"weather_key": "HE2208280235181905",
+"weather_key": "ab418b1a602d40d0bba7717756884199",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "region": "长沙市",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
